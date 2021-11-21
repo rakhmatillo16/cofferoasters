@@ -168,7 +168,7 @@ main{
     margin-top: 114px;
 }
 
-.hero-box {
+.hero-part {
     background-image: url("../images/hero-back.jpg");
     background-repeat: no-repeat;
     width: 1280px;
@@ -177,12 +177,12 @@ main{
     padding-bottom: 136px;
 }
 
-.hero-box-left {
+.heropart__left {
     margin-left: 86px;
     width: 493px;
 }
 
-.hero-heading {
+.heropart__heading {
     margin: 0;
     margin-bottom: 32px;
     padding: 0;
@@ -194,7 +194,7 @@ main{
     color: #FEFCF7;
 }
 
-.hero-heading-desc {
+.heropart__heading-desc {
     margin: 0;
     margin-bottom: 71px;
     padding: 0;
@@ -208,7 +208,7 @@ main{
     opacity: 0.8;
 }
 
-.hero-heading-left-link {
+.heropart__left-link {
     background-color: #66D2CF;
     border-radius: 6px;
     text-decoration: none;
