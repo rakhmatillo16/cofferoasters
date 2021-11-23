@@ -823,3 +823,48 @@ main{
     line-height: 26px;
     color: #333D4B;
 }
+
+/* CREATE A PLAN */
+
+.plan-hero__background {
+    background-image: url("../images/plan-back.png");
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+    /* height: 450px; */
+    margin-bottom: 168px;
+}
+
+.plan-hero__left {
+    padding: 137px 0;
+    padding-left: 85px;
+    width: 570px;
+    /* height: 430px; */
+}
+
+.plan-hero__background-heading {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 12px;
+    font-family: Fraunces 9pt;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FEFCF7;
+}
+
+.plan-hero__background-heading-desc {
+    margin: 0;
+    padding: 0;
+    padding-top: 12px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
